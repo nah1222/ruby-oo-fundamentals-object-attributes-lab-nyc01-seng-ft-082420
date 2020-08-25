@@ -1,6 +1,6 @@
 class Dog 
   def breed
-    Dog.breed= breed
+    Dog.name= breed
   end
  
   def breed
